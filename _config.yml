@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "SangKyu's Data Analytics Study"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "SangKyu"
-description              : "An amazing website."
+name                     : "Sang Kyu"
+description              : "공부하자"
 url                      : "https://analytickyu.github.io/" # the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
